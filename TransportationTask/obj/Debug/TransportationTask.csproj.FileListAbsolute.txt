@@ -1,0 +1,9 @@
+C:\Users\admin\Desktop\Программы\TransportationTask\TransportationTask\bin\Debug\TransportationTask.exe.config
+C:\Users\admin\Desktop\Программы\TransportationTask\TransportationTask\bin\Debug\TransportationTask.exe
+C:\Users\admin\Desktop\Программы\TransportationTask\TransportationTask\bin\Debug\TransportationTask.pdb
+C:\Users\admin\Desktop\Программы\TransportationTask\TransportationTask\obj\Debug\TransportationTask.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\Программы\TransportationTask\TransportationTask\obj\Debug\TransportationTask.Form1.resources
+C:\Users\admin\Desktop\Программы\TransportationTask\TransportationTask\obj\Debug\TransportationTask.Properties.Resources.resources
+C:\Users\admin\Desktop\Программы\TransportationTask\TransportationTask\obj\Debug\TransportationTask.csproj.GenerateResource.Cache
+C:\Users\admin\Desktop\Программы\TransportationTask\TransportationTask\obj\Debug\TransportationTask.exe
+C:\Users\admin\Desktop\Программы\TransportationTask\TransportationTask\obj\Debug\TransportationTask.pdb
